@@ -60,3 +60,6 @@ Notes
 
 License
 - MIT (adjust as needed).
+
+Acknowledgments
+- Built with the help of GitHub Copilot. Learn more: https://github.com/features/copilot
