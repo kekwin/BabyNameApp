@@ -1,0 +1,1154 @@
+{
+  "names": [
+    "Alma",
+    "Freja",
+    "Clara",
+    "Ella",
+    "Lily",
+    "Sofia",
+    "Agnes",
+    "Anna",
+    "Nora",
+    "Ida",
+    "Olivia",
+    "Luna",
+    "Ellie",
+    "Astrid",
+    "Karla",
+    "Esther",
+    "Asta",
+    "Frida",
+    "Leonora",
+    "Liv",
+    "Isabella",
+    "Aya",
+    "Lærke",
+    "Vilma",
+    "Maja",
+    "Merle",
+    "Vera",
+    "Molly",
+    "Lea",
+    "Laura",
+    "Josefine",
+    "Ellen",
+    "Emily",
+    "Liva",
+    "Hanna",
+    "Mathilde",
+    "Mille",
+    "Andrea",
+    "Rosa",
+    "Søs",
+    "Gry",
+    "Amalie",
+    "Ane",
+    "Augusta",
+    "Alberte",
+    "Alma-Sofie",
+    "Amira",
+    "Amanda",
+    "Angelina",
+    "Annelise",
+    "Antonella",
+    "Aurora",
+    "Bella",
+    "Bianca",
+    "Brith",
+    "Celine",
+    "Cecilie",
+    "Chanel",
+    "Christina",
+    "Dagmar",
+    "Dina",
+    "Edith",
+    "Elea",
+    "Elin",
+    "Elina",
+    "Elisa",
+    "Elise",
+    "Eliza",
+    "Ellinor",
+    "Eloise",
+    "Elvira",
+    "Eva",
+    "Evelina",
+    "Filippa",
+    "Fiona",
+    "Flora",
+    "Gerda",
+    "Greta",
+    "Gyda",
+    "Helene",
+    "Helga",
+    "Helle",
+    "Hilda",
+    "Ingrid",
+    "Inger",
+    "Izabella",
+    "Jacqueline",
+    "Jette",
+    "Johanne",
+    "Josefa",
+    "Juna",
+    "Julia",
+    "Julie",
+    "Junie",
+    "Kamilla",
+    "Karina",
+    "Katrine",
+    "Kelly",
+    "Kirstine",
+    "Kira",
+    "Klara",
+    "Konstance",
+    "Kristine",
+    "Lea-Sofie",
+    "Linnea",
+    "Lois",
+    "Lovise",
+    "Lucie",
+    "Malou",
+    "Mie",
+    "Minna",
+    "Nadja",
+    "Natalie",
+    "Natasha",
+    "Nella",
+    "Nicole",
+    "Nina",
+    "Olivia-Rose",
+    "Pernille",
+    "Petra",
+    "Rebekka",
+    "Ronja",
+    "Saga",
+    "Salome",
+    "Selma",
+    "Serena",
+    "Shana",
+    "Signe",
+    "Simone",
+    "Siri",
+    "Sofie",
+    "Thea",
+    "Tilde",
+    "Thyra",
+    "Tonje",
+    "Tyra",
+    "Victoria",
+    "Vilhelmine",
+    "Wilma",
+    "Winnie",
+    "Yrsa",
+    "Yvonne",
+    "Ofelia"
+  ],
+  "votes": {
+    "Kewin": {
+      "Alma": {
+        "liked": false,
+        "comment": ""
+      },
+      "Freja": {
+        "liked": true,
+        "comment": ""
+      },
+      "Clara": {
+        "liked": true,
+        "comment": ""
+      },
+      "Ella": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lily": {
+        "liked": false,
+        "comment": ""
+      },
+      "Sofia": {
+        "liked": true,
+        "comment": ""
+      },
+      "Agnes": {
+        "liked": false,
+        "comment": ""
+      },
+      "Anna": {
+        "liked": false,
+        "comment": ""
+      },
+      "Nora": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ida": {
+        "liked": false,
+        "comment": ""
+      },
+      "Olivia": {
+        "liked": true,
+        "comment": ""
+      },
+      "Luna": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ellie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Astrid": {
+        "liked": false,
+        "comment": ""
+      },
+      "Karla": {
+        "liked": true,
+        "comment": ""
+      },
+      "Esther": {
+        "liked": false,
+        "comment": ""
+      },
+      "Asta": {
+        "liked": true,
+        "comment": ""
+      },
+      "Frida": {
+        "liked": false,
+        "comment": ""
+      },
+      "Leonora": {
+        "liked": false,
+        "comment": ""
+      },
+      "Liv": {
+        "liked": false,
+        "comment": ""
+      },
+      "Isabella": {
+        "liked": false,
+        "comment": ""
+      },
+      "Aya": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lærke": {
+        "liked": false,
+        "comment": ""
+      },
+      "Vilma": {
+        "liked": false,
+        "comment": ""
+      },
+      "Maja": {
+        "liked": false,
+        "comment": ""
+      },
+      "Merle": {
+        "liked": false,
+        "comment": ""
+      },
+      "Vera": {
+        "liked": false,
+        "comment": ""
+      },
+      "Molly": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lea": {
+        "liked": false,
+        "comment": ""
+      },
+      "Laura": {
+        "liked": false,
+        "comment": ""
+      },
+      "Josefine": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ellen": {
+        "liked": false,
+        "comment": ""
+      },
+      "Emily": {
+        "liked": false,
+        "comment": ""
+      },
+      "Liva": {
+        "liked": false,
+        "comment": ""
+      },
+      "Hanna": {
+        "liked": false,
+        "comment": ""
+      },
+      "Mathilde": {
+        "liked": false,
+        "comment": ""
+      },
+      "Mille": {
+        "liked": false,
+        "comment": ""
+      },
+      "Andrea": {
+        "liked": false,
+        "comment": ""
+      },
+      "Rosa": {
+        "liked": false,
+        "comment": ""
+      },
+      "Søs": {
+        "liked": false,
+        "comment": ""
+      },
+      "Gry": {
+        "liked": false,
+        "comment": ""
+      },
+      "Amalie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ane": {
+        "liked": false,
+        "comment": ""
+      },
+      "Augusta": {
+        "liked": false,
+        "comment": ""
+      },
+      "Alberte": {
+        "liked": false,
+        "comment": ""
+      },
+      "Alma-Sofie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Amira": {
+        "liked": false,
+        "comment": ""
+      },
+      "Amanda": {
+        "liked": true,
+        "comment": ""
+      },
+      "Angelina": {
+        "liked": false,
+        "comment": ""
+      },
+      "Annelise": {
+        "liked": false,
+        "comment": ""
+      },
+      "Antonella": {
+        "liked": false,
+        "comment": ""
+      },
+      "Aurora": {
+        "liked": false,
+        "comment": ""
+      },
+      "Bella": {
+        "liked": false,
+        "comment": ""
+      },
+      "Bianca": {
+        "liked": false,
+        "comment": ""
+      },
+      "Brith": {
+        "liked": false,
+        "comment": ""
+      },
+      "Celine": {
+        "liked": false,
+        "comment": ""
+      },
+      "Cecilie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Chanel": {
+        "liked": false,
+        "comment": ""
+      },
+      "Christina": {
+        "liked": false,
+        "comment": ""
+      },
+      "Dagmar": {
+        "liked": false,
+        "comment": ""
+      },
+      "Dina": {
+        "liked": false,
+        "comment": ""
+      },
+      "Edith": {
+        "liked": false,
+        "comment": ""
+      },
+      "Elea": {
+        "liked": false,
+        "comment": ""
+      },
+      "Elin": {
+        "liked": false,
+        "comment": ""
+      },
+      "Elina": {
+        "liked": false,
+        "comment": ""
+      },
+      "Elisa": {
+        "liked": false,
+        "comment": ""
+      },
+      "Elise": {
+        "liked": false,
+        "comment": ""
+      },
+      "Eliza": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ellinor": {
+        "liked": false,
+        "comment": ""
+      },
+      "Eloise": {
+        "liked": false,
+        "comment": ""
+      },
+      "Elvira": {
+        "liked": false,
+        "comment": ""
+      },
+      "Eva": {
+        "liked": false,
+        "comment": ""
+      },
+      "Evelina": {
+        "liked": false,
+        "comment": ""
+      },
+      "Filippa": {
+        "liked": false,
+        "comment": ""
+      },
+      "Fiona": {
+        "liked": false,
+        "comment": ""
+      },
+      "Greta": {
+        "liked": false,
+        "comment": ""
+      },
+      "Klara": {
+        "liked": false,
+        "comment": ""
+      },
+      "Julia": {
+        "liked": false,
+        "comment": ""
+      },
+      "Izabella": {
+        "liked": false,
+        "comment": ""
+      },
+      "Yvonne": {
+        "liked": false,
+        "comment": ""
+      },
+      "Vilhelmine": {
+        "liked": false,
+        "comment": ""
+      },
+      "Salome": {
+        "liked": false,
+        "comment": ""
+      },
+      "Malou": {
+        "liked": false,
+        "comment": ""
+      },
+      "Mie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Julie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Nella": {
+        "liked": false,
+        "comment": ""
+      },
+      "Signe": {
+        "liked": false,
+        "comment": ""
+      },
+      "Konstance": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ingrid": {
+        "liked": false,
+        "comment": ""
+      },
+      "Gyda": {
+        "liked": false,
+        "comment": ""
+      },
+      "Kira": {
+        "liked": false,
+        "comment": ""
+      },
+      "Gerda": {
+        "liked": false,
+        "comment": ""
+      },
+      "Saga": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lucie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Helga": {
+        "liked": false,
+        "comment": ""
+      },
+      "Thea": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lea-Sofie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Winnie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Kamilla": {
+        "liked": false,
+        "comment": ""
+      },
+      "Yrsa": {
+        "liked": false,
+        "comment": ""
+      },
+      "Nicole": {
+        "liked": false,
+        "comment": ""
+      },
+      "Wilma": {
+        "liked": false,
+        "comment": ""
+      },
+      "Petra": {
+        "liked": false,
+        "comment": ""
+      },
+      "Johanne": {
+        "liked": false,
+        "comment": ""
+      },
+      "Hilda": {
+        "liked": false,
+        "comment": ""
+      },
+      "Jacqueline": {
+        "liked": false,
+        "comment": ""
+      },
+      "Flora": {
+        "liked": false,
+        "comment": ""
+      },
+      "Rebekka": {
+        "liked": false,
+        "comment": ""
+      },
+      "Victoria": {
+        "liked": true,
+        "comment": ""
+      },
+      "Helene": {
+        "liked": false,
+        "comment": ""
+      },
+      "Kirstine": {
+        "liked": false,
+        "comment": ""
+      },
+      "Simone": {
+        "liked": false,
+        "comment": ""
+      },
+      "Tilde": {
+        "liked": false,
+        "comment": ""
+      },
+      "Thyra": {
+        "liked": false,
+        "comment": ""
+      },
+      "Junie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Natalie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ronja": {
+        "liked": false,
+        "comment": ""
+      },
+      "Tonje": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lovise": {
+        "liked": false,
+        "comment": ""
+      },
+      "Lois": {
+        "liked": false,
+        "comment": ""
+      },
+      "Katrine": {
+        "liked": false,
+        "comment": ""
+      },
+      "Nina": {
+        "liked": false,
+        "comment": ""
+      },
+      "Pernille": {
+        "liked": false,
+        "comment": ""
+      },
+      "Selma": {
+        "liked": false,
+        "comment": ""
+      },
+      "Olivia-Rose": {
+        "liked": false,
+        "comment": ""
+      },
+      "Josefa": {
+        "liked": false,
+        "comment": ""
+      },
+      "Siri": {
+        "liked": false,
+        "comment": ""
+      },
+      "Serena": {
+        "liked": false,
+        "comment": ""
+      },
+      "Nadja": {
+        "liked": false,
+        "comment": ""
+      },
+      "Jette": {
+        "liked": false,
+        "comment": ""
+      },
+      "Kelly": {
+        "liked": false,
+        "comment": ""
+      },
+      "Inger": {
+        "liked": false,
+        "comment": ""
+      },
+      "Sofie": {
+        "liked": false,
+        "comment": ""
+      },
+      "Tyra": {
+        "liked": false,
+        "comment": ""
+      },
+      "Kristine": {
+        "liked": false,
+        "comment": ""
+      },
+      "Juna": {
+        "liked": false,
+        "comment": ""
+      },
+      "Ofelia": {
+        "liked": true,
+        "comment": ""
+      },
+      "Natasha": {
+        "liked": false,
+        "comment": ""
+      },
+      "Shana": {
+        "liked": false,
+        "comment": ""
+      },
+      "Minna": {
+        "liked": false,
+        "comment": ""
+      },
+      "Helle": {
+        "liked": false,
+        "comment": ""
+      },
+      "Linnea": {
+        "liked": false,
+        "comment": ""
+      },
+      "Karina": {
+        "liked": false,
+        "comment": ""
+      }
+    },
+    "Julie": {
+      "Konstance": {
+        "liked": true
+      },
+      "Ellen": {
+        "liked": false
+      },
+      "Nora": {
+        "liked": false
+      },
+      "Aurora": {
+        "liked": false
+      },
+      "Inger": {
+        "liked": false
+      },
+      "Eliza": {
+        "liked": false
+      },
+      "Emily": {
+        "liked": false
+      },
+      "Annelise": {
+        "liked": false
+      },
+      "Angelina": {
+        "liked": false
+      },
+      "Salome": {
+        "liked": false
+      },
+      "Mie": {
+        "liked": false
+      },
+      "Rebekka": {
+        "liked": false
+      },
+      "Liva": {
+        "liked": false
+      },
+      "Sofie": {
+        "liked": false
+      },
+      "Thyra": {
+        "liked": false
+      },
+      "Yvonne": {
+        "liked": false
+      },
+      "Antonella": {
+        "liked": false
+      },
+      "Victoria": {
+        "liked": false
+      },
+      "Serena": {
+        "liked": false
+      },
+      "Laura": {
+        "liked": false
+      },
+      "Ingrid": {
+        "liked": false
+      },
+      "Julia": {
+        "liked": false
+      },
+      "Lea-Sofie": {
+        "liked": false
+      },
+      "Linnea": {
+        "liked": false
+      },
+      "Lily": {
+        "liked": false
+      },
+      "Josefine": {
+        "liked": false
+      },
+      "Vera": {
+        "liked": false
+      },
+      "Pernille": {
+        "liked": false
+      },
+      "Lovise": {
+        "liked": false
+      },
+      "Amira": {
+        "liked": false
+      },
+      "Natalie": {
+        "liked": false
+      },
+      "Hilda": {
+        "liked": false
+      },
+      "Natasha": {
+        "liked": false
+      },
+      "Nicole": {
+        "liked": false
+      },
+      "Cecilie": {
+        "liked": false
+      },
+      "Alma": {
+        "liked": false
+      },
+      "Evelina": {
+        "liked": false
+      },
+      "Selma": {
+        "liked": false
+      },
+      "Ella": {
+        "liked": false
+      },
+      "Asta": {
+        "liked": true
+      },
+      "Hanna": {
+        "liked": false
+      },
+      "Simone": {
+        "liked": false
+      },
+      "Lærke": {
+        "liked": false
+      },
+      "Rosa": {
+        "liked": false
+      },
+      "Jette": {
+        "liked": false
+      },
+      "Olivia-Rose": {
+        "liked": false
+      },
+      "Freja": {
+        "liked": false
+      },
+      "Nadja": {
+        "liked": false
+      },
+      "Nina": {
+        "liked": false
+      },
+      "Christina": {
+        "liked": false
+      },
+      "Dagmar": {
+        "liked": false
+      },
+      "Julie": {
+        "liked": false
+      },
+      "Greta": {
+        "liked": false
+      },
+      "Frida": {
+        "liked": false
+      },
+      "Elisa": {
+        "liked": false
+      },
+      "Flora": {
+        "liked": false
+      },
+      "Winnie": {
+        "liked": false
+      },
+      "Sofia": {
+        "liked": false
+      },
+      "Kamilla": {
+        "liked": false
+      },
+      "Clara": {
+        "liked": true
+      },
+      "Maja": {
+        "liked": false
+      },
+      "Leonora": {
+        "liked": false
+      },
+      "Esther": {
+        "liked": false
+      },
+      "Karina": {
+        "liked": false
+      },
+      "Bella": {
+        "liked": false
+      },
+      "Gry": {
+        "liked": false
+      },
+      "Chanel": {
+        "liked": false
+      },
+      "Gerda": {
+        "liked": false
+      },
+      "Jacqueline": {
+        "liked": false
+      },
+      "Bianca": {
+        "liked": false
+      },
+      "Eva": {
+        "liked": false
+      },
+      "Siri": {
+        "liked": false
+      },
+      "Kelly": {
+        "liked": false
+      },
+      "Helga": {
+        "liked": false
+      },
+      "Mille": {
+        "liked": false
+      },
+      "Aya": {
+        "liked": false
+      },
+      "Junie": {
+        "liked": false
+      },
+      "Brith": {
+        "liked": false
+      },
+      "Gyda": {
+        "liked": false
+      },
+      "Helene": {
+        "liked": false
+      },
+      "Signe": {
+        "liked": false
+      },
+      "Izabella": {
+        "liked": false
+      },
+      "Elise": {
+        "liked": false
+      },
+      "Thea": {
+        "liked": false
+      },
+      "Ellinor": {
+        "liked": false
+      },
+      "Amalie": {
+        "liked": false
+      },
+      "Amanda": {
+        "liked": false
+      },
+      "Ofelia": {
+        "liked": false
+      },
+      "Andrea": {
+        "liked": false
+      },
+      "Ellie": {
+        "liked": false
+      },
+      "Merle": {
+        "liked": false
+      },
+      "Tonje": {
+        "liked": false
+      },
+      "Elin": {
+        "liked": false
+      },
+      "Agnes": {
+        "liked": false
+      },
+      "Elvira": {
+        "liked": false
+      },
+      "Liv": {
+        "liked": false
+      },
+      "Shana": {
+        "liked": false
+      },
+      "Petra": {
+        "liked": false
+      },
+      "Augusta": {
+        "liked": false
+      },
+      "Kira": {
+        "liked": false
+      },
+      "Anna": {
+        "liked": false
+      },
+      "Søs": {
+        "liked": false
+      },
+      "Celine": {
+        "liked": false
+      },
+      "Lucie": {
+        "liked": false
+      },
+      "Juna": {
+        "liked": false
+      },
+      "Olivia": {
+        "liked": false
+      },
+      "Tyra": {
+        "liked": false
+      },
+      "Isabella": {
+        "liked": false
+      },
+      "Eloise": {
+        "liked": false
+      },
+      "Vilhelmine": {
+        "liked": false
+      },
+      "Karla": {
+        "liked": false
+      },
+      "Ronja": {
+        "liked": false
+      },
+      "Filippa": {
+        "liked": false
+      },
+      "Molly": {
+        "liked": false
+      },
+      "Mathilde": {
+        "liked": false
+      },
+      "Fiona": {
+        "liked": false
+      },
+      "Elea": {
+        "liked": false
+      },
+      "Alma-Sofie": {
+        "liked": false
+      },
+      "Lea": {
+        "liked": false
+      },
+      "Malou": {
+        "liked": false
+      },
+      "Katrine": {
+        "liked": false
+      },
+      "Minna": {
+        "liked": false
+      },
+      "Nella": {
+        "liked": false
+      },
+      "Ida": {
+        "liked": false
+      },
+      "Yrsa": {
+        "liked": false
+      },
+      "Dina": {
+        "liked": false
+      },
+      "Alberte": {
+        "liked": false
+      },
+      "Vilma": {
+        "liked": false
+      },
+      "Ane": {
+        "liked": false
+      },
+      "Saga": {
+        "liked": false
+      },
+      "Helle": {
+        "liked": false
+      },
+      "Josefa": {
+        "liked": false
+      },
+      "Lois": {
+        "liked": false
+      },
+      "Edith": {
+        "liked": false
+      },
+      "Klara": {
+        "liked": false
+      },
+      "Tilde": {
+        "liked": false
+      },
+      "Astrid": {
+        "liked": false
+      },
+      "Kirstine": {
+        "liked": false
+      },
+      "Kristine": {
+        "liked": false
+      },
+      "Luna": {
+        "liked": false
+      },
+      "Elina": {
+        "liked": false
+      },
+      "Wilma": {
+        "liked": false
+      },
+      "Johanne": {
+        "liked": false
+      }
+    }
+  }
+}
